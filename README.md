@@ -29,3 +29,8 @@ Inflation rates by year [from this article](https://www.officialdata.org/us/infl
 [Calculator](https://data.bls.gov/cgi-bin/cpicalc.pl) for additional checks 
 
 Currency exchange rates [by months](https://www.x-rates.com/average/?from=USD&to=GBP&amount=1&year=2022)
+
+
+# Example
+
+![Example](example.png)
